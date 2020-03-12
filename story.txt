@@ -1,3 +1,9 @@
-Bsckground: Once upon a time, a traveller has come to this ancient kingdom. He
+Background: Once upon a time, a traveller has come to this ancient kingdom. He
 did not have impressive strength or magic to show. But instead, he brought 
 technology people had never seen before to this land...
+
+He wishes he could build his own kingdom by using his advanced technology. In order
+to achieve his goal, he claims that he is the strongest man in the world,and no one
+can defeat him. To prove his strength, he buid his own armor and challenged the most 
+famous knight in the kingdom - Sauron.
+
